@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "scripts": {
+        "docs:serve": "npm run serve --prefix packages/docs"
+    },
+    "workspaces": ["packages/*"]
+}
